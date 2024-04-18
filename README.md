@@ -2,6 +2,8 @@
 
 This project implements an interactive drawing grid using HTML, CSS, and JavaScript. Users can draw, erase, and customize the grid size to create pixel art or sketches.
 
+[Live Demo](https://pmota173.github.io/Etch-a-sketch/) :point_left:
+
 ## Features
 
 - Drawing and Erasing Modes: Implemented using event listeners on mode buttons (drawMode and eraserMode) to toggle the draw variable between true (drawing mode) and false (erasing mode). When drawing, the grid cell's background color is set to black; when erasing, it's set to white.
