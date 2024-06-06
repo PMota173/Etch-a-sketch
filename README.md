@@ -2,7 +2,7 @@
 
 This project implements an interactive drawing grid using HTML, CSS, and JavaScript. Users can draw, erase, and customize the grid size to create pixel art or sketches.
 
-[Live Demo](https://pmota173.github.io/Etch-a-sketch/){:target="_blank"} :point_left:
+[Live Demo](https://pmota173.github.io/Etch-a-sketch/) :point_left:
 
 ## Features
 
